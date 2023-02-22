@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm SALLY IBAID</h1>
 <h3 align="center">A Mechatronics Engineer from Palestine</h3>
 
@@ -10,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SallyGhazi](https://github.com/SallyGhazi)
 
-- 📫 How to reach me **sky.sally1998@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/sally-ibaid-30052a19a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
